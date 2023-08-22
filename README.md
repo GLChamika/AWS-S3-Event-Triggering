@@ -15,3 +15,4 @@ Here are some examples of top companies that use S3 event triggering:
 **NOTE**: AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE SHOULD BE REPLACED.
 
 
+![AWS Event Trigger](https://github.com/GLChamika/AWS-S3-Event-Triggering/assets/84073224/9d85f7cd-fab4-411e-bb45-fc6c2bef37f5)
